@@ -1,2 +1,2 @@
 # HMOReg
-A data analysis of HMO register
+HMO register dashboard: A data analysis project
